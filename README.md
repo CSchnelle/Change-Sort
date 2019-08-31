@@ -1,4 +1,4 @@
-# JAVA---Coursework
+# Change Sort
 Sort change by denomination
 Project Instructions:
 
