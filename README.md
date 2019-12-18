@@ -8,3 +8,12 @@ Project Instructions:
  *
  * Part 2: Comment away user input. Replace by code that randomly generates a change
  * between 1 and 99 cents, inclusive.
+
+
+How to run program:
+
+Install Java:
+https://java.com/en/download/help/download_options.xml
+
+Open CMD or Terminal and go to the directory where you've downloaded the Java file.
+Use the java command to execute the file: "java Project02.java" 
